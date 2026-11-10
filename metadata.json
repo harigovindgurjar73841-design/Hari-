@@ -1,0 +1,6 @@
+{
+  "name": "FlutterSphere: SharedPreferences & Intl Studio",
+  "description": "Production Flutter mobile experience and developer workbench featuring persistent SharedPreferences storage, real-time Intl localization, and production Dart code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
